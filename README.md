@@ -62,5 +62,5 @@ URL	Método	Descripción<br><br>
 /equipos	POST	Almacena un nuevo equipo.<br>
 /equipos/{equipo}	GET	Muestra los detalles de un equipo (incluyendo sus resultados).<br>
 /equipos/{equipo}/edit	GET	Muestra el formulario para editar un equipo.<br>
-/equipos/{equipo}	PUT/PATCH	Actualiza un equipo.
-/equipos/{equipo}	DELETE	Elimina un equipo.
+/equipos/{equipo}	PUT/PATCH	Actualiza un equipo.<br>
+/equipos/{equipo}	DELETE	Elimina un equipo.<br>
