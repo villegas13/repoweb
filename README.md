@@ -1,7 +1,10 @@
 🏆 CRUD de Equipos y Resultados - Proyecto Laravel
+
 📋 Descripción del Proyecto
 Este proyecto es una aplicación web desarrollada con Laravel que implementa las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de equipos deportivos. Adicionalmente, permite listar los resultados de los partidos de cada equipo.
+
 ⚙️ Funcionalidades Principales
+
 •	Gestión de Equipos (CRUD):
 o	Crear nuevos equipos con su nombre y detalles.
 o	Visualizar un listado completo de los equipos.
