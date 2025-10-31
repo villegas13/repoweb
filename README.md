@@ -56,6 +56,7 @@ La aplicación estará disponible en http://127.0.0.1:8000 (o el puerto que mues
 ________________________________________
 🗺️ Rutas Principales (Ejemplo)
 URL	Método	Descripción
+
 /equipos	GET	Muestra el listado de todos los equipos.
 /equipos/create	GET	Muestra el formulario para crear un nuevo equipo.
 /equipos	POST	Almacena un nuevo equipo.
@@ -63,5 +64,3 @@ URL	Método	Descripción
 /equipos/{equipo}/edit	GET	Muestra el formulario para editar un equipo.
 /equipos/{equipo}	PUT/PATCH	Actualiza un equipo.
 /equipos/{equipo}	DELETE	Elimina un equipo.
-
-# repoweb
