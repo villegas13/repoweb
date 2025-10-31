@@ -14,10 +14,12 @@ o	Eliminar un equipo.
 o	Mostrar los resultados de los partidos asociados a cada equipo.
 ________________________________________
 🚀 Tecnologías Utilizadas
+
 •	Framework: Laravel 12
 •	Base de Datos: MySQL 
 •	Frontend: Bootstrap 
 •	Lenguaje: PHP 8.2
+
 ________________________________________
 📦 Instalación y Configuración
 Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:
