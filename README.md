@@ -15,10 +15,10 @@ o	Mostrar los resultados de los partidos asociados a cada equipo.
 ________________________________________
 🚀 Tecnologías Utilizadas
 
-•	Framework: Laravel 12
-•	Base de Datos: MySQL 
-•	Frontend: Bootstrap 
-•	Lenguaje: PHP 8.2
+•	Framework: Laravel 12<br>
+•	Base de Datos: MySQL<br> 
+•	Frontend: Bootstrap<br> 
+•	Lenguaje: PHP 8.2<br>
 
 ________________________________________
 📦 Instalación y Configuración
@@ -55,12 +55,12 @@ php artisan serve
 La aplicación estará disponible en http://127.0.0.1:8000 (o el puerto que muestre la consola).
 ________________________________________
 🗺️ Rutas Principales (Ejemplo)
-URL	Método	Descripción
+URL	Método	Descripción<br><br>
 
-/equipos	GET	Muestra el listado de todos los equipos.
-/equipos/create	GET	Muestra el formulario para crear un nuevo equipo.
-/equipos	POST	Almacena un nuevo equipo.
-/equipos/{equipo}	GET	Muestra los detalles de un equipo (incluyendo sus resultados).
-/equipos/{equipo}/edit	GET	Muestra el formulario para editar un equipo.
+/equipos	GET	Muestra el listado de todos los equipos.<br>
+/equipos/create	GET	Muestra el formulario para crear un nuevo equipo.<br>
+/equipos	POST	Almacena un nuevo equipo.<br>
+/equipos/{equipo}	GET	Muestra los detalles de un equipo (incluyendo sus resultados).<br>
+/equipos/{equipo}/edit	GET	Muestra el formulario para editar un equipo.<br>
 /equipos/{equipo}	PUT/PATCH	Actualiza un equipo.
 /equipos/{equipo}	DELETE	Elimina un equipo.
